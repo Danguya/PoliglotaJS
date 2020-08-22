@@ -1,34 +1,35 @@
-{
-    "word" : "bom",
-    "type" : 
-        {
-            "from" : "portuguese",
-            "classification" : "language",
-            "grammar" : "adjetivo"
-        }
-    ,
-    "synonyms" : 
-        [
-            
-            "aceitável",
-            "ruim",
-            "excelente",
-            "excepcional",
-            "favorável",
-            "ótimo",
-            "maravilhoso",
-            "positivo",
-            "satisfatório",
-            "satisfatório",
-            "excelente",
-            "valioso",
-            "Maravilhoso"
+[
+    {
+        "word" : "bom",
+        "type" : 
+            {
+                "from" : "portuguese",
+                "classification" : "language",
+                "grammar" : "adjetivo"
+            },
+        "synonyms" : 
+            [
+                
+                "aceitável",
+                "ruim",
+                "excelente",
+                "excepcional",
+                "favorável",
+                "ótimo",
+                "maravilhoso",
+                "positivo",
+                "satisfatório",
+                "satisfatório",
+                "excelente",
+                "valioso",
+                "Maravilhoso"
 
-        ],
-    "translations": {
-        "portuguese":"bom",
-        "spanish":"bueno",
-        "french":"bien",
-        "italy":"bene"
+            ],
+        "translations": {
+            "portuguese":"bom",
+            "spanish":"bueno",
+            "french":"bien",
+            "italy":"bene"
+        }
     }
-}
+]

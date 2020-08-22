@@ -1,0 +1,36 @@
+[
+    {
+        "word" : "good",
+        "type" : 
+            {
+                "from" : "english",
+                "classification" : "language",
+                "grammar" : "adjective"
+            }
+        ,
+        "synonyms" : 
+            [
+                "acceptable",
+                "bad",
+                "excellent",
+                "exceptional",
+                "favorable",
+                "great",
+                "marvelous",
+                "positive",
+                "satisfactory",
+                "satisfying",
+                "superb",
+                "valuable",
+                "wonderful"
+    
+            ],
+        "translations": {
+            "portuguese":"bom",
+            "spanish":"buena",
+            "french":"bien",
+            "italy":"bene"
+        }
+    }
+   
+]

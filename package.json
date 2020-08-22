@@ -1,0 +1,19 @@
+{
+  "name": "poliglotajs",
+  "version": "1.0.0",
+  "description": "API open source para facilitar na tradução de diversas línguas na web, desktop e mobile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danguya/PoliglotaJS.git"
+  },
+  "author": "Wilmy Danguya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danguya/PoliglotaJS/issues"
+  },
+  "homepage": "https://github.com/Danguya/PoliglotaJS#readme"
+}
